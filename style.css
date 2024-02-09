@@ -40,3 +40,50 @@ img{
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+
+.nav-right .user-icon img{
+    width: 100%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.nav-right.user-icon:hover{
+    cursor: pointer;
+}
+
+.nav-right .user-icon:hover img{
+    cursor: pointer;
+}
+.nav-left .menu-icon{
+    width: 30px;
+    margin-right: 25px;
+}
+
+.nav-left logo  {
+    width: 130px;
+}
+
+.nav-middle .mic-icon{
+    width: 16px;
+}
+
+.nav-middle .search-box{
+    width: 16px;
+    margin-right: 25px;
+    padding: 8px 12px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.nav-middle .search-box input {
+    width: 400px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+}
+
