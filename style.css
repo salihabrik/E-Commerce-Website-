@@ -124,5 +124,15 @@ img{
 }
 .subscribed-list h3{
     font-size: 13px;
-    margin
+    margin: 20px 0;
+    color: #5a5a5a;
 }
+
+.subscribed-list a{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+
